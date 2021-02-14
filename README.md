@@ -7,5 +7,8 @@
 - [x] [最大子序和 (Leetcode)](https://leetcode.com/problems/maximum-subarray/)
 * [Code](https://github.com/yzn12345/Leetcode-Algorithms_notes/blob/main/2021-02-13/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C%20(Leetcode).md)
 
-- [x] [合并两个有序链表 (Leetcode) (Leetcode)](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [合并两个有序链表 (Leetcode)](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [Code](https://github.com/yzn12345/Leetcode-Algorithms_notes/blob/main/2021-02-13/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%20(Leetcode).md)
+
+- [x] [实现快速排序 (Leetcode)](https://leetcode.com/problems/sort-an-array/)
+* [Code](https://github.com/yzn12345/Leetcode-Algorithms_notes/blob/main/2021-02-13/%E5%AE%9E%E7%8E%B0%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F_.md)
